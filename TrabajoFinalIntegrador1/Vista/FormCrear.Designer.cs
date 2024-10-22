@@ -104,7 +104,7 @@
             this.tbIdCrear.Name = "tbIdCrear";
             this.tbIdCrear.Size = new System.Drawing.Size(180, 20);
             this.tbIdCrear.TabIndex = 6;
-            this.tbIdCrear.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
+           
             // 
             // tbTitleCrear
             // 
@@ -162,7 +162,6 @@
             this.Controls.Add(this.groupBox1);
             this.Name = "FormCrear";
             this.Text = "FormCrear";
-            this.Load += new System.EventHandler(this.FormCrear_Load);
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             this.ResumeLayout(false);

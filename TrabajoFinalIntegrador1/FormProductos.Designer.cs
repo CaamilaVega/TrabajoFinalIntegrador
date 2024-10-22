@@ -60,6 +60,12 @@
             // cbCategoria
             // 
             this.cbCategoria.FormattingEnabled = true;
+            this.cbCategoria.Items.AddRange(new object[] {
+            "Todas las categorias",
+            "Electronics",
+            "Jewelery",
+            "Men\'s clothing",
+            "Women\'s clothing"});
             this.cbCategoria.Location = new System.Drawing.Point(3, 19);
             this.cbCategoria.Name = "cbCategoria";
             this.cbCategoria.Size = new System.Drawing.Size(121, 21);
@@ -76,6 +82,7 @@
             this.cbOrdenar.Name = "cbOrdenar";
             this.cbOrdenar.Size = new System.Drawing.Size(121, 21);
             this.cbOrdenar.TabIndex = 2;
+            this.cbOrdenar.SelectedIndexChanged += new System.EventHandler(this.cbOrdenar_SelectedIndexChanged_1);
             // 
             // labelCategoria
             // 
@@ -149,7 +156,6 @@
             this.tbBuscarID.Name = "tbBuscarID";
             this.tbBuscarID.Size = new System.Drawing.Size(153, 20);
             this.tbBuscarID.TabIndex = 9;
-            this.tbBuscarID.TextChanged += new System.EventHandler(this.tbBuscarID_TextChanged);
             // 
             // panel1
             // 

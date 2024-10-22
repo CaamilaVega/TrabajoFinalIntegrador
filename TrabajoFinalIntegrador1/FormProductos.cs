@@ -23,18 +23,17 @@ namespace TrabajoFinalIntegrador1
 
         private void btCrear_Click(object sender, EventArgs e)
         {
-            int id=(int)GrillaProductos.SelectedRows[0].Cells[0].Value;
+            int id = (int)GrillaProductos.SelectedRows[0].Cells[0].Value;
             FormCrear fCrear = new FormCrear(id);
             fCrear.ShowDialog();
         }
 
         private void btActualizar_Click(object sender, EventArgs e)
         {
-            int id=(int)GrillaProductos.SelectedRows[0].Cells[0].Value;//Marcar el ID de la fila y celda 0
-            //MessageBox.Show(id.ToString());
+            int id = (int)GrillaProductos.SelectedRows[0].Cells[0].Value;
             FormActualizar fActualizar = new FormActualizar(id);
             fActualizar.ShowDialog();
-            
+
 
         }
 
@@ -46,34 +45,50 @@ namespace TrabajoFinalIntegrador1
             GrillaProductos.DataSource = producto;
         }
 
-        private void tbBuscarID_TextChanged(object sender, EventArgs e)
-        {
-            
-        }
 
         private void btBuscar_Click(object sender, EventArgs e)
         {
             if (int.TryParse(tbBuscarID.Text, out int productoId))
             {
- 
-                List<Productos> producto = new List<Productos>(){Productos.GetProductos(url, productoId)};
+
+                List<Productos> producto = new List<Productos>() { Productos.GetProductos(url, productoId) };
                 GrillaProductos.DataSource = producto;
             }
         }
 
         private void cbCategoria_SelectedIndexChanged(object sender, EventArgs e)
         {
-            if (int.TryParse(cbCategoria.Text, out int category))
+            Productos productosAPI = new Productos();
+            switch (cbCategoria.Text)
             {
-
-                List<Productos> producto = new List<Productos>() { Productos.GetProductos(url, category) };
-                GrillaProductos.DataSource = producto;
+                case "Jewelery":
+                    GrillaProductos.DataSource = productosAPI.FiltradoJewelery(url); break;
+                case "Men's clothing":
+                    GrillaProductos.DataSource = productosAPI.FiltradoMensclothing(url); break;
+                case "Women's clothing":
+                    GrillaProductos.DataSource = productosAPI.Filtradowomensclothing(url); break;
+                case "Electronics":
+                    GrillaProductos.DataSource = productosAPI.FiltradoElectronics(url); break;
+                default:
+                    GrillaProductos.DataSource = productosAPI.ProdAsc(url); break;
             }
         }
 
-        //private void cbOrdenar_SelectedIndexChanged(object sender, EventArgs e)
-        //{
-        //    descen.id = Productos.producto.OrderByDescending(des => des.id);
-        //}
+
+
+
+        private void cbOrdenar_SelectedIndexChanged_1(object sender, EventArgs e)
+        {
+            if (cbOrdenar.Text == "Descendente")
+            {
+                Productos productosAPI = new Productos();
+                GrillaProductos.DataSource = productosAPI.ProdDesc(url);
+            }
+            else
+            {
+                Productos productosAPI = new Productos();
+                GrillaProductos.DataSource = productosAPI.ProdAsc(url);
+            }
+        }
     }
 }

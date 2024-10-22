@@ -78,16 +78,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="FormActualizar.cs">
+    <Compile Include="Vista\FormActualizar.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FormActualizar.Designer.cs">
+    <Compile Include="Vista\FormActualizar.Designer.cs">
       <DependentUpon>FormActualizar.cs</DependentUpon>
     </Compile>
-    <Compile Include="FormCrear.cs">
+    <Compile Include="Vista\FormCrear.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FormCrear.Designer.cs">
+    <Compile Include="Vista\FormCrear.Designer.cs">
       <DependentUpon>FormCrear.cs</DependentUpon>
     </Compile>
     <Compile Include="FormProductos.cs">
@@ -99,10 +99,10 @@
     <Compile Include="Productos.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="FormActualizar.resx">
+    <EmbeddedResource Include="Vista\FormActualizar.resx">
       <DependentUpon>FormActualizar.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FormCrear.resx">
+    <EmbeddedResource Include="Vista\FormCrear.resx">
       <DependentUpon>FormCrear.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FormProductos.resx">
