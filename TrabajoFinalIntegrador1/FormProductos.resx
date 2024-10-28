@@ -121,7 +121,7 @@
   <data name="btCrear.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAL
-        DwAACw8BkvkDpQAABH1JREFUaEPtmc+PFFUQx9ffvzUqahD0ot48GX8RjOGo8WaySgRkp3t2WFZXQvwB
+        DAAACwwBP0AiyAAABH1JREFUaEPtmc+PFFUQx9ffvzUqahD0ot48GX8RjOGo8WaySgRkp3t2WFZXQvwB
         IZo9mAB3MGj8BySIHgQT/gEvHogGE2NMdBfUZBFOLCyQWH6qU2C9nu6d92am5TLfpDLsq6pv1XuvXr3u
         ZmyEEUYYHOPjckMnkzXtTHZNZnK4nctP/PsscsnkLOMnCh027bY8Pzsr15v7tcPEhDwymcteEj7FryRJ
         JieZzB4ms9ro/j+0WvIACXxGIhe7EksX5TjQ6cgKo28WnVzeIPkzpSQGFnbxb3jXW5jhgxW6iS3/vCq4
@@ -146,7 +146,23 @@
   <data name="btActualizar.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAL
-        DwAACw8BkvkDpQAAAlRJREFUaEPtl7lSAkEQhom9r0R9CX0LLR/Bq9wFLLV8CyMfw1CNzEwQEY8ANPMB
+        DAAACwwBP0AiyAAAAlRJREFUaEPtl7lSAkEQhom9r0R9CX0LLR/Bq9wFLLV8CyMfw1CNzEwQEY8ANPMB
+        UDIN1TJq/6Z6EeZYQPcYy/2qOunpnflm51jIZWRkJIfn0Wjep1PEe96js81NmpAm91lbo2GIlws+UUfc
+        +z5NSYm7sHzBowtFvhWYVH1nhyal1D3C5IPAJG72V2lMHnGH3V0agXzFIP2h5Tyqcr08mj7FIg3hzZYM
+        orXtDZq3tFX5oEsX6SEH9lIVRO4OExvvUVPmtlZHacDbwCSGaAbyASGTKPEKSllyWLfNdxxKaRvbMzyx
+        RFci5MB2BT5gB/JIm5CVOJKSeLHJQ6CO/KuWN0wCh3cObV23E+repDk+QuRbBxZii70mwXVcr9X4dC4l
+        8cBLDzn9I4WrsvPrms/TAmRetDqcCZZH/a3W5tEj2mali+iR2+ZKHTh481LWxrYSiKaW8+gBfczIo9HT
+        75tXCVmJdqC9vrdO0/JI9PxUPiB0Eugj1l+n/JkfZNuYkD1fU/tArhrrDzqW50HUgQeV53pDH2U+U1IW
+        Pb/dNoy8ee224RWNXZ7fkDpwVPK8slIWDxj4xDBwFNsmmd86GOxTGTgS+Vi3TSfq4L+Vx4pWEpNnVAFJ
+        h8Lypj2PXPL/uFQJSVtxSp5RRSRtxDl5RpWRtIaT8owqJOkubPL4zX+dqjyjSvUbTsgzJrle4Yw8g63x
+        ZJK0Rtp7XqWwRct9TuITH65jp+QzMv4jRY9WcBifDYc03eCLBBeKaNoZ+NpMNhqiaefvT6D/ez/paBR9
+        WhLNjIyMFrncF9waauTn54LEAAAAAElFTkSuQmCC
+</value>
+  </data>
+  <data name="btEliminar.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAL
+        DAAACwwBP0AiyAAAAlRJREFUaEPtl7lSAkEQhom9r0R9CX0LLR/Bq9wFLLV8CyMfw1CNzEwQEY8ANPMB
         UDIN1TJq/6Z6EeZYQPcYy/2qOunpnflm51jIZWRkJIfn0Wjep1PEe96js81NmpAm91lbo2GIlws+UUfc
         +z5NSYm7sHzBowtFvhWYVH1nhyal1D3C5IPAJG72V2lMHnGH3V0agXzFIP2h5Tyqcr08mj7FIg3hzZYM
         orXtDZq3tFX5oEsX6SEH9lIVRO4OExvvUVPmtlZHacDbwCSGaAbyASGTKPEKSllyWLfNdxxKaRvbMzyx

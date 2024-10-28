@@ -15,21 +15,20 @@ namespace TrabajoFinalIntegrador1
     {
         string url = "https://fakestoreapi.com";
         private Productos produc;
-        public FormCrear(int id)
+        public FormCrear()
         {
             InitializeComponent();
             var client = new RestClient(url);
-            var request = new RestRequest($"products/{id}", Method.Post);
+            var request = new RestRequest($"products", Method.Post);
             Productos producto = client.Post<Productos>(request);
 
         }
-        void GuarProducto(Productos p)
+        void GuardarProducto(Productos p)
         {
 
             var client = new RestClient(url);
             var request = new RestRequest("products/1", Method.Post);
             request.AddJsonBody(p);
-
             var producto = client.Put(request);
         }
 
@@ -40,7 +39,7 @@ namespace TrabajoFinalIntegrador1
             p.price = decimal.Parse(tbPriceCrear.Text);
             p.description = tbDescriptionCrear.Text;
             p.title = tbTitleCrear.Text;
-            GuarProducto(p);
+            GuardarProducto(p);
             MessageBox.Show("Se creo el producto");
 
         }

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UqM9XQbEOVOZJpM/XhNGGcG7qNXhlM7pJjThQRZhV9wl0SwYrnnboK8rAoCcch74VLoFn2ZiNGAFrqc/lhrxFA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\camil\\OneDrive\\Escritorio\\TrabajoFinal-main\\Negocio\\Negocio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\camil\\.nuget\\packages\\restsharp\\112.1.0\\restsharp.112.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

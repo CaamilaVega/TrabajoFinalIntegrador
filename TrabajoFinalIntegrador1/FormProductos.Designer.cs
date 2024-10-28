@@ -40,6 +40,7 @@
             this.btBuscar = new System.Windows.Forms.Button();
             this.tbBuscarID = new System.Windows.Forms.TextBox();
             this.panel1 = new System.Windows.Forms.Panel();
+            this.btEliminar = new System.Windows.Forms.Button();
             this.lbNombrePagina = new System.Windows.Forms.Label();
             this.panel2 = new System.Windows.Forms.Panel();
             ((System.ComponentModel.ISupportInitialize)(this.GrillaProductos)).BeginInit();
@@ -159,6 +160,7 @@
             // 
             // panel1
             // 
+            this.panel1.Controls.Add(this.btEliminar);
             this.panel1.Controls.Add(this.btActualizar);
             this.panel1.Controls.Add(this.lbNombrePagina);
             this.panel1.Controls.Add(this.btCrear);
@@ -171,6 +173,20 @@
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(800, 159);
             this.panel1.TabIndex = 10;
+            // 
+            // btEliminar
+            // 
+            this.btEliminar.BackColor = System.Drawing.SystemColors.Window;
+            this.btEliminar.Image = ((System.Drawing.Image)(resources.GetObject("btEliminar.Image")));
+            this.btEliminar.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btEliminar.Location = new System.Drawing.Point(196, 52);
+            this.btEliminar.Name = "btEliminar";
+            this.btEliminar.Size = new System.Drawing.Size(90, 55);
+            this.btEliminar.TabIndex = 12;
+            this.btEliminar.Text = "Borrar";
+            this.btEliminar.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.btEliminar.UseVisualStyleBackColor = false;
+            this.btEliminar.Click += new System.EventHandler(this.btEliminar_Click);
             // 
             // lbNombrePagina
             // 
@@ -227,6 +243,7 @@
         private System.Windows.Forms.Panel panel1;
         private System.Windows.Forms.Label lbNombrePagina;
         private System.Windows.Forms.Panel panel2;
+        private System.Windows.Forms.Button btEliminar;
     }
 }
 

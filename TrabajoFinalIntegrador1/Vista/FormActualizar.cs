@@ -30,23 +30,38 @@ namespace TrabajoFinalIntegrador1
         }
         void GuarProducto(Productos p)
         {
-            
-            var client = new RestClient(url);
-            var request = new RestRequest("products/1", Method.Put);
-            request.AddJsonBody(p);
+            try
+            {
+                var client = new RestClient(url);
+                var request = new RestRequest($"products/{p.id}", Method.Put);
+                request.AddJsonBody(p);
+                var response = client.Put(request);
 
-            var producto = client.Put(request);
+                if (response.IsSuccessful)
+                {
+                    MessageBox.Show("Se actualizó el producto correctamente.");
+                }
+                else
+                {
+                    MessageBox.Show("Error al actualizar el producto: " + response.ErrorMessage);
+                }
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show("Ocurrió un error al intentar actualizar el producto: " + ex.Message);
+            }
         }
         private void btActualizar_Click(object sender, EventArgs e)
         {
 
             Productos p =new Productos();
-            p.id = int.Parse(tbID.Text);
-            p.price=decimal.Parse(tbPrice.Text);
-            p.description = tbDescription.Text;
-            p.title = tbTitle.Text;
+            {
+                p.id = int.Parse(tbID.Text);
+                p.price = decimal.Parse(tbPrice.Text);
+                p.description = tbDescription.Text;
+                p.title = tbTitle.Text;
+            };
             GuarProducto(p);
-            MessageBox.Show("Se actualizo el producto");
 
         }
     }

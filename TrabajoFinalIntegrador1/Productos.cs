@@ -1,4 +1,5 @@
-﻿using RestSharp;
+﻿using NLog;
+using RestSharp;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -10,6 +11,8 @@ namespace TrabajoFinalIntegrador1
 {
     public class Productos
     {
+        
+      
         public int id { get; set; }
         public string title { get; set; }
         public decimal price { get; set; }

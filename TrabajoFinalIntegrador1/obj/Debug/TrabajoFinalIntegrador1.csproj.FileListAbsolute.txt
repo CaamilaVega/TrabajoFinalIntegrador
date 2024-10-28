@@ -199,3 +199,5 @@ C:\Users\camil\OneDrive\Escritorio\TrabajoFinal-main\TrabajoFinalIntegrador1\obj
 C:\Users\camil\OneDrive\Escritorio\TrabajoFinal-main\TrabajoFinalIntegrador1\obj\Debug\TrabajoFinalIntegrador1.csproj.CopyComplete
 C:\Users\camil\OneDrive\Escritorio\TrabajoFinal-main\TrabajoFinalIntegrador1\obj\Debug\TrabajoFinalIntegrador1.exe
 C:\Users\camil\OneDrive\Escritorio\TrabajoFinal-main\TrabajoFinalIntegrador1\obj\Debug\TrabajoFinalIntegrador1.pdb
+C:\Users\camil\OneDrive\Escritorio\TrabajoFinal-main\TrabajoFinalIntegrador1\bin\Debug\NLog.dll
+C:\Users\camil\OneDrive\Escritorio\TrabajoFinal-main\TrabajoFinalIntegrador1\bin\Debug\NLog.xml

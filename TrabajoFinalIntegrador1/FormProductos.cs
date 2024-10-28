@@ -1,4 +1,5 @@
-﻿using RestSharp;
+﻿using NLog;
+using RestSharp;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -14,6 +15,7 @@ namespace TrabajoFinalIntegrador1
 {
     public partial class FormProductos : Form
     {
+        private static readonly Logger logger = LogManager.GetCurrentClassLogger();
         string url = "https://fakestoreapi.com";
         private Productos produc;
         public FormProductos()
@@ -23,8 +25,7 @@ namespace TrabajoFinalIntegrador1
 
         private void btCrear_Click(object sender, EventArgs e)
         {
-            int id = (int)GrillaProductos.SelectedRows[0].Cells[0].Value;
-            FormCrear fCrear = new FormCrear(id);
+            FormCrear fCrear = new FormCrear();
             fCrear.ShowDialog();
         }
 
@@ -74,9 +75,6 @@ namespace TrabajoFinalIntegrador1
             }
         }
 
-
-
-
         private void cbOrdenar_SelectedIndexChanged_1(object sender, EventArgs e)
         {
             if (cbOrdenar.Text == "Descendente")
@@ -88,6 +86,50 @@ namespace TrabajoFinalIntegrador1
             {
                 Productos productosAPI = new Productos();
                 GrillaProductos.DataSource = productosAPI.ProdAsc(url);
+            }
+        }
+
+        private void btEliminar_Click(object sender, EventArgs e)
+        {
+            try
+            {
+                if (GrillaProductos.SelectedRows.Count > 0)
+                {
+                    int id = (int)GrillaProductos.SelectedRows[0].Cells[0].Value;
+                    DialogResult resultado = MessageBox.Show("¿Desea eliminar el producto?", "Confirmación",
+                    MessageBoxButtons.YesNo, MessageBoxIcon.Question);
+
+                    if (resultado == DialogResult.Yes)
+                    {
+                        var client = new RestClient(url);
+                        var request = new RestRequest($"products/{id}", Method.Delete);
+
+                        var response = client.Execute(request);
+
+                        if (response.IsSuccessful)
+                        {
+                            MessageBox.Show("Se eliminó el producto correctamente");
+                            GrillaProductos.Rows.RemoveAt(GrillaProductos.SelectedRows[0].Index);
+                        }
+                        else
+                        {
+                            MessageBox.Show("Error al eliminar el producto: " + response.ErrorMessage);
+                        }
+                    }
+                    else
+                    {
+                        MessageBox.Show("No se eliminó el producto");
+                    }
+                }
+                else
+                {
+                    MessageBox.Show("Seleccione un producto para eliminar");
+                }
+            }
+            catch (Exception ex)
+            {
+                logger.Error(ex, "Excepcion en el método Delete");
+                MessageBox.Show("Ocurrió un error al intentar eliminar el producto: " + ex.Message);
             }
         }
     }
