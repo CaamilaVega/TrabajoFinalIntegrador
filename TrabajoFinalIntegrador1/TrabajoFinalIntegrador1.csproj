@@ -39,8 +39,13 @@
     <Reference Include="NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c, processorArchitecture=MSIL">
       <HintPath>..\packages\NLog.5.3.4\lib\net46\NLog.dll</HintPath>
     </Reference>
+<<<<<<< HEAD
     <Reference Include="RestSharp, Version=112.1.0.0, Culture=neutral, PublicKeyToken=598062e77f915f75, processorArchitecture=MSIL">
       <HintPath>..\packages\RestSharp.112.1.0\lib\net471\RestSharp.dll</HintPath>
+=======
+    <Reference Include="RestSharp, Version=112.0.0.0, Culture=neutral, PublicKeyToken=598062e77f915f75, processorArchitecture=MSIL">
+      <HintPath>..\packages\RestSharp.112.0.0\lib\net471\RestSharp.dll</HintPath>
+>>>>>>> 13542f87eb4d8a09f0d96fea9c23fb9846bcc3d2
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Buffers, Version=4.0.3.0, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL">
@@ -83,6 +88,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <Compile Include="Vista\FrmEditar.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -111,6 +117,37 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Vista\FrmPrincipal.resx">
       <DependentUpon>FrmPrincipal.cs</DependentUpon>
+=======
+    <Compile Include="Productos.cs" />
+    <Compile Include="Vista\FormActualizar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\FormActualizar.Designer.cs">
+      <DependentUpon>FormActualizar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Vista\FormCrear.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Vista\FormCrear.Designer.cs">
+      <DependentUpon>FormCrear.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormProductos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormProductos.Designer.cs">
+      <DependentUpon>FormProductos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Vista\FormActualizar.resx">
+      <DependentUpon>FormActualizar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Vista\FormCrear.resx">
+      <DependentUpon>FormCrear.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormProductos.resx">
+      <DependentUpon>FormProductos.cs</DependentUpon>
+>>>>>>> 13542f87eb4d8a09f0d96fea9c23fb9846bcc3d2
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
@@ -122,7 +159,10 @@
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
     <None Include="NLog.config" />
+<<<<<<< HEAD
     <None Include="packages.config" />
+=======
+>>>>>>> 13542f87eb4d8a09f0d96fea9c23fb9846bcc3d2
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -139,11 +179,14 @@
   <ItemGroup>
     <Content Include="NLog.xml" />
   </ItemGroup>
+<<<<<<< HEAD
   <ItemGroup>
     <ProjectReference Include="..\Negocio\Negocio.csproj">
       <Project>{3a495ab8-b1cc-4991-abd3-220109850da5}</Project>
       <Name>Negocio</Name>
     </ProjectReference>
   </ItemGroup>
+=======
+>>>>>>> 13542f87eb4d8a09f0d96fea9c23fb9846bcc3d2
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

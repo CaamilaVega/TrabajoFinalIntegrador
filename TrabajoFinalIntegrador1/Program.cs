@@ -16,7 +16,11 @@ namespace TrabajoFinalIntegrador1
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
+<<<<<<< HEAD
             Application.Run(new FrmPrincipal());
+=======
+            Application.Run(new FormProductos());
+>>>>>>> 13542f87eb4d8a09f0d96fea9c23fb9846bcc3d2
         }
     }
 }

@@ -201,6 +201,7 @@ C:\Users\camil\OneDrive\Escritorio\TrabajoFinal-main\TrabajoFinalIntegrador1\obj
 C:\Users\camil\OneDrive\Escritorio\TrabajoFinal-main\TrabajoFinalIntegrador1\obj\Debug\TrabajoFinalIntegrador1.pdb
 C:\Users\camil\OneDrive\Escritorio\TrabajoFinal-main\TrabajoFinalIntegrador1\bin\Debug\NLog.dll
 C:\Users\camil\OneDrive\Escritorio\TrabajoFinal-main\TrabajoFinalIntegrador1\bin\Debug\NLog.xml
+<<<<<<< HEAD
 C:\Users\LN\Downloads\TrabajoFinalIntegrador-main (1)\TrabajoFinalIntegrador-main\TrabajoFinalIntegrador1\bin\Debug\TrabajoFinalIntegrador1.exe.config
 C:\Users\LN\Downloads\TrabajoFinalIntegrador-main (1)\TrabajoFinalIntegrador-main\TrabajoFinalIntegrador1\bin\Debug\TrabajoFinalIntegrador1.exe
 C:\Users\LN\Downloads\TrabajoFinalIntegrador-main (1)\TrabajoFinalIntegrador-main\TrabajoFinalIntegrador1\bin\Debug\TrabajoFinalIntegrador1.pdb
@@ -280,3 +281,5 @@ C:\Users\camil\OneDrive\Escritorio\Trabajo Fina Integrador\Ultima version 28-10\
 C:\Users\camil\OneDrive\Escritorio\Trabajo Fina Integrador\Ultima version 28-10\TrabajoFinalIntegrador-main\TrabajoFinalIntegrador1\obj\Debug\TrabajoFinalIntegrador1.FrmEditar.resources
 C:\Users\camil\OneDrive\Escritorio\Trabajo Fina Integrador\Ultima version 28-10\TrabajoFinalIntegrador-main\TrabajoFinalIntegrador1\obj\Debug\TrabajoFinalIntegrador1.FrmCrear.resources
 C:\Users\camil\OneDrive\Escritorio\Trabajo Fina Integrador\Ultima version 28-10\TrabajoFinalIntegrador-main\TrabajoFinalIntegrador1\obj\Debug\TrabajoFinalIntegrador1.FrmPrincipal.resources
+=======
+>>>>>>> 13542f87eb4d8a09f0d96fea9c23fb9846bcc3d2
