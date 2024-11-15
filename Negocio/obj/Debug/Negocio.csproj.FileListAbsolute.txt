@@ -1,0 +1,59 @@
+C:\Users\LN\Downloads\TrabajoFinalIntegrador-main (1)\TrabajoFinalIntegrador-main\Negocio\bin\Debug\Negocio.dll.config
+C:\Users\LN\Downloads\TrabajoFinalIntegrador-main (1)\TrabajoFinalIntegrador-main\Negocio\bin\Debug\Negocio.dll
+C:\Users\LN\Downloads\TrabajoFinalIntegrador-main (1)\TrabajoFinalIntegrador-main\Negocio\bin\Debug\Negocio.pdb
+C:\Users\LN\Downloads\TrabajoFinalIntegrador-main (1)\TrabajoFinalIntegrador-main\Negocio\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\LN\Downloads\TrabajoFinalIntegrador-main (1)\TrabajoFinalIntegrador-main\Negocio\bin\Debug\RestSharp.dll
+C:\Users\LN\Downloads\TrabajoFinalIntegrador-main (1)\TrabajoFinalIntegrador-main\Negocio\bin\Debug\System.Buffers.dll
+C:\Users\LN\Downloads\TrabajoFinalIntegrador-main (1)\TrabajoFinalIntegrador-main\Negocio\bin\Debug\System.Memory.dll
+C:\Users\LN\Downloads\TrabajoFinalIntegrador-main (1)\TrabajoFinalIntegrador-main\Negocio\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\LN\Downloads\TrabajoFinalIntegrador-main (1)\TrabajoFinalIntegrador-main\Negocio\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\LN\Downloads\TrabajoFinalIntegrador-main (1)\TrabajoFinalIntegrador-main\Negocio\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\LN\Downloads\TrabajoFinalIntegrador-main (1)\TrabajoFinalIntegrador-main\Negocio\bin\Debug\System.Text.Json.dll
+C:\Users\LN\Downloads\TrabajoFinalIntegrador-main (1)\TrabajoFinalIntegrador-main\Negocio\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\LN\Downloads\TrabajoFinalIntegrador-main (1)\TrabajoFinalIntegrador-main\Negocio\bin\Debug\System.ValueTuple.dll
+C:\Users\LN\Downloads\TrabajoFinalIntegrador-main (1)\TrabajoFinalIntegrador-main\Negocio\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\LN\Downloads\TrabajoFinalIntegrador-main (1)\TrabajoFinalIntegrador-main\Negocio\bin\Debug\RestSharp.xml
+C:\Users\LN\Downloads\TrabajoFinalIntegrador-main (1)\TrabajoFinalIntegrador-main\Negocio\bin\Debug\System.Buffers.xml
+C:\Users\LN\Downloads\TrabajoFinalIntegrador-main (1)\TrabajoFinalIntegrador-main\Negocio\bin\Debug\System.Memory.xml
+C:\Users\LN\Downloads\TrabajoFinalIntegrador-main (1)\TrabajoFinalIntegrador-main\Negocio\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\LN\Downloads\TrabajoFinalIntegrador-main (1)\TrabajoFinalIntegrador-main\Negocio\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\LN\Downloads\TrabajoFinalIntegrador-main (1)\TrabajoFinalIntegrador-main\Negocio\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\LN\Downloads\TrabajoFinalIntegrador-main (1)\TrabajoFinalIntegrador-main\Negocio\bin\Debug\System.Text.Json.xml
+C:\Users\LN\Downloads\TrabajoFinalIntegrador-main (1)\TrabajoFinalIntegrador-main\Negocio\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\LN\Downloads\TrabajoFinalIntegrador-main (1)\TrabajoFinalIntegrador-main\Negocio\bin\Debug\System.ValueTuple.xml
+C:\Users\LN\Downloads\TrabajoFinalIntegrador-main (1)\TrabajoFinalIntegrador-main\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\LN\Downloads\TrabajoFinalIntegrador-main (1)\TrabajoFinalIntegrador-main\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\LN\Downloads\TrabajoFinalIntegrador-main (1)\TrabajoFinalIntegrador-main\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\LN\Downloads\TrabajoFinalIntegrador-main (1)\TrabajoFinalIntegrador-main\Negocio\obj\Debug\Negocio.dll
+C:\Users\LN\Downloads\TrabajoFinalIntegrador-main (1)\TrabajoFinalIntegrador-main\Negocio\obj\Debug\Negocio.pdb
+C:\Users\camil\OneDrive\Escritorio\Trabajo Fina Integrador\Ultima version 28-10\TrabajoFinalIntegrador-main\Negocio\bin\Debug\Negocio.dll.config
+C:\Users\camil\OneDrive\Escritorio\Trabajo Fina Integrador\Ultima version 28-10\TrabajoFinalIntegrador-main\Negocio\bin\Debug\Negocio.dll
+C:\Users\camil\OneDrive\Escritorio\Trabajo Fina Integrador\Ultima version 28-10\TrabajoFinalIntegrador-main\Negocio\bin\Debug\Negocio.pdb
+C:\Users\camil\OneDrive\Escritorio\Trabajo Fina Integrador\Ultima version 28-10\TrabajoFinalIntegrador-main\Negocio\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\camil\OneDrive\Escritorio\Trabajo Fina Integrador\Ultima version 28-10\TrabajoFinalIntegrador-main\Negocio\bin\Debug\RestSharp.dll
+C:\Users\camil\OneDrive\Escritorio\Trabajo Fina Integrador\Ultima version 28-10\TrabajoFinalIntegrador-main\Negocio\bin\Debug\System.Buffers.dll
+C:\Users\camil\OneDrive\Escritorio\Trabajo Fina Integrador\Ultima version 28-10\TrabajoFinalIntegrador-main\Negocio\bin\Debug\System.Memory.dll
+C:\Users\camil\OneDrive\Escritorio\Trabajo Fina Integrador\Ultima version 28-10\TrabajoFinalIntegrador-main\Negocio\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\camil\OneDrive\Escritorio\Trabajo Fina Integrador\Ultima version 28-10\TrabajoFinalIntegrador-main\Negocio\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\camil\OneDrive\Escritorio\Trabajo Fina Integrador\Ultima version 28-10\TrabajoFinalIntegrador-main\Negocio\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\camil\OneDrive\Escritorio\Trabajo Fina Integrador\Ultima version 28-10\TrabajoFinalIntegrador-main\Negocio\bin\Debug\System.Text.Json.dll
+C:\Users\camil\OneDrive\Escritorio\Trabajo Fina Integrador\Ultima version 28-10\TrabajoFinalIntegrador-main\Negocio\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\camil\OneDrive\Escritorio\Trabajo Fina Integrador\Ultima version 28-10\TrabajoFinalIntegrador-main\Negocio\bin\Debug\System.ValueTuple.dll
+C:\Users\camil\OneDrive\Escritorio\Trabajo Fina Integrador\Ultima version 28-10\TrabajoFinalIntegrador-main\Negocio\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\camil\OneDrive\Escritorio\Trabajo Fina Integrador\Ultima version 28-10\TrabajoFinalIntegrador-main\Negocio\bin\Debug\RestSharp.xml
+C:\Users\camil\OneDrive\Escritorio\Trabajo Fina Integrador\Ultima version 28-10\TrabajoFinalIntegrador-main\Negocio\bin\Debug\System.Buffers.xml
+C:\Users\camil\OneDrive\Escritorio\Trabajo Fina Integrador\Ultima version 28-10\TrabajoFinalIntegrador-main\Negocio\bin\Debug\System.Memory.xml
+C:\Users\camil\OneDrive\Escritorio\Trabajo Fina Integrador\Ultima version 28-10\TrabajoFinalIntegrador-main\Negocio\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\camil\OneDrive\Escritorio\Trabajo Fina Integrador\Ultima version 28-10\TrabajoFinalIntegrador-main\Negocio\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\camil\OneDrive\Escritorio\Trabajo Fina Integrador\Ultima version 28-10\TrabajoFinalIntegrador-main\Negocio\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\camil\OneDrive\Escritorio\Trabajo Fina Integrador\Ultima version 28-10\TrabajoFinalIntegrador-main\Negocio\bin\Debug\System.Text.Json.xml
+C:\Users\camil\OneDrive\Escritorio\Trabajo Fina Integrador\Ultima version 28-10\TrabajoFinalIntegrador-main\Negocio\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\camil\OneDrive\Escritorio\Trabajo Fina Integrador\Ultima version 28-10\TrabajoFinalIntegrador-main\Negocio\bin\Debug\System.ValueTuple.xml
+C:\Users\camil\OneDrive\Escritorio\Trabajo Fina Integrador\Ultima version 28-10\TrabajoFinalIntegrador-main\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\Users\camil\OneDrive\Escritorio\Trabajo Fina Integrador\Ultima version 28-10\TrabajoFinalIntegrador-main\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\camil\OneDrive\Escritorio\Trabajo Fina Integrador\Ultima version 28-10\TrabajoFinalIntegrador-main\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\camil\OneDrive\Escritorio\Trabajo Fina Integrador\Ultima version 28-10\TrabajoFinalIntegrador-main\Negocio\obj\Debug\Negocio.dll
+C:\Users\camil\OneDrive\Escritorio\Trabajo Fina Integrador\Ultima version 28-10\TrabajoFinalIntegrador-main\Negocio\obj\Debug\Negocio.pdb
+C:\Users\camil\OneDrive\Escritorio\Trabajo Fina Integrador\Ultima version 28-10\TrabajoFinalIntegrador-main\Negocio\bin\Debug\NLog.config
+C:\Users\camil\OneDrive\Escritorio\Trabajo Fina Integrador\Ultima version 28-10\TrabajoFinalIntegrador-main\Negocio\bin\Debug\NLog.dll
+C:\Users\camil\OneDrive\Escritorio\Trabajo Fina Integrador\Ultima version 28-10\TrabajoFinalIntegrador-main\Negocio\bin\Debug\NLog.xml

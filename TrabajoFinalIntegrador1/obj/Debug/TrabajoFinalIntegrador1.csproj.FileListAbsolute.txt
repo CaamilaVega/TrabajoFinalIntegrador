@@ -1,0 +1,282 @@
+C:\repo\TrabajoFinalIntegrador1\TrabajoFinalIntegrador1\bin\Debug\TrabajoFinalIntegrador1.exe.config
+C:\repo\TrabajoFinalIntegrador1\TrabajoFinalIntegrador1\bin\Debug\TrabajoFinalIntegrador1.exe
+C:\repo\TrabajoFinalIntegrador1\TrabajoFinalIntegrador1\bin\Debug\TrabajoFinalIntegrador1.pdb
+C:\repo\TrabajoFinalIntegrador1\TrabajoFinalIntegrador1\obj\Debug\TrabajoFinalIntegrador1.csproj.AssemblyReference.cache
+C:\repo\TrabajoFinalIntegrador1\TrabajoFinalIntegrador1\obj\Debug\TrabajoFinalIntegrador1.csproj.SuggestedBindingRedirects.cache
+C:\repo\TrabajoFinalIntegrador1\TrabajoFinalIntegrador1\obj\Debug\TrabajoFinalIntegrador1.FormProductos.resources
+C:\repo\TrabajoFinalIntegrador1\TrabajoFinalIntegrador1\obj\Debug\TrabajoFinalIntegrador1.Properties.Resources.resources
+C:\repo\TrabajoFinalIntegrador1\TrabajoFinalIntegrador1\obj\Debug\TrabajoFinalIntegrador1.csproj.GenerateResource.cache
+C:\repo\TrabajoFinalIntegrador1\TrabajoFinalIntegrador1\obj\Debug\TrabajoFinalIntegrador1.csproj.CoreCompileInputs.cache
+C:\repo\TrabajoFinalIntegrador1\TrabajoFinalIntegrador1\obj\Debug\TrabajoFinalIntegrador1.exe
+C:\repo\TrabajoFinalIntegrador1\TrabajoFinalIntegrador1\obj\Debug\TrabajoFinalIntegrador1.pdb
+C:\repo\TrabajoFinalIntegrador1\TrabajoFinalIntegrador1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\repo\TrabajoFinalIntegrador1\TrabajoFinalIntegrador1\bin\Debug\RestSharp.dll
+C:\repo\TrabajoFinalIntegrador1\TrabajoFinalIntegrador1\bin\Debug\System.Buffers.dll
+C:\repo\TrabajoFinalIntegrador1\TrabajoFinalIntegrador1\bin\Debug\System.Memory.dll
+C:\repo\TrabajoFinalIntegrador1\TrabajoFinalIntegrador1\bin\Debug\System.Numerics.Vectors.dll
+C:\repo\TrabajoFinalIntegrador1\TrabajoFinalIntegrador1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\repo\TrabajoFinalIntegrador1\TrabajoFinalIntegrador1\bin\Debug\System.Text.Encodings.Web.dll
+C:\repo\TrabajoFinalIntegrador1\TrabajoFinalIntegrador1\bin\Debug\System.Text.Json.dll
+C:\repo\TrabajoFinalIntegrador1\TrabajoFinalIntegrador1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\repo\TrabajoFinalIntegrador1\TrabajoFinalIntegrador1\bin\Debug\System.ValueTuple.dll
+C:\repo\TrabajoFinalIntegrador1\TrabajoFinalIntegrador1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\repo\TrabajoFinalIntegrador1\TrabajoFinalIntegrador1\bin\Debug\RestSharp.xml
+C:\repo\TrabajoFinalIntegrador1\TrabajoFinalIntegrador1\bin\Debug\System.Buffers.xml
+C:\repo\TrabajoFinalIntegrador1\TrabajoFinalIntegrador1\bin\Debug\System.Memory.xml
+C:\repo\TrabajoFinalIntegrador1\TrabajoFinalIntegrador1\bin\Debug\System.Numerics.Vectors.xml
+C:\repo\TrabajoFinalIntegrador1\TrabajoFinalIntegrador1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\repo\TrabajoFinalIntegrador1\TrabajoFinalIntegrador1\bin\Debug\System.Text.Encodings.Web.xml
+C:\repo\TrabajoFinalIntegrador1\TrabajoFinalIntegrador1\bin\Debug\System.Text.Json.xml
+C:\repo\TrabajoFinalIntegrador1\TrabajoFinalIntegrador1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\repo\TrabajoFinalIntegrador1\TrabajoFinalIntegrador1\bin\Debug\System.ValueTuple.xml
+C:\repo\TrabajoFinalIntegrador1\TrabajoFinalIntegrador1\obj\Debug\TrabajoFinalIntegrador1.FormActualizar.resources
+C:\repo\TrabajoFinalIntegrador1\TrabajoFinalIntegrador1\obj\Debug\TrabajoFinalIntegrador1.csproj.CopyComplete
+C:\Users\LN\Downloads\TrabajoFinal\TrabajoFinalIntegrador1\bin\Debug\TrabajoFinalIntegrador1.exe.config
+C:\Users\LN\Downloads\TrabajoFinal\TrabajoFinalIntegrador1\bin\Debug\TrabajoFinalIntegrador1.exe
+C:\Users\LN\Downloads\TrabajoFinal\TrabajoFinalIntegrador1\bin\Debug\TrabajoFinalIntegrador1.pdb
+C:\Users\LN\Downloads\TrabajoFinal\TrabajoFinalIntegrador1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\LN\Downloads\TrabajoFinal\TrabajoFinalIntegrador1\bin\Debug\RestSharp.dll
+C:\Users\LN\Downloads\TrabajoFinal\TrabajoFinalIntegrador1\bin\Debug\System.Buffers.dll
+C:\Users\LN\Downloads\TrabajoFinal\TrabajoFinalIntegrador1\bin\Debug\System.Memory.dll
+C:\Users\LN\Downloads\TrabajoFinal\TrabajoFinalIntegrador1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\LN\Downloads\TrabajoFinal\TrabajoFinalIntegrador1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\LN\Downloads\TrabajoFinal\TrabajoFinalIntegrador1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\LN\Downloads\TrabajoFinal\TrabajoFinalIntegrador1\bin\Debug\System.Text.Json.dll
+C:\Users\LN\Downloads\TrabajoFinal\TrabajoFinalIntegrador1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\LN\Downloads\TrabajoFinal\TrabajoFinalIntegrador1\bin\Debug\System.ValueTuple.dll
+C:\Users\LN\Downloads\TrabajoFinal\TrabajoFinalIntegrador1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\LN\Downloads\TrabajoFinal\TrabajoFinalIntegrador1\bin\Debug\RestSharp.xml
+C:\Users\LN\Downloads\TrabajoFinal\TrabajoFinalIntegrador1\bin\Debug\System.Buffers.xml
+C:\Users\LN\Downloads\TrabajoFinal\TrabajoFinalIntegrador1\bin\Debug\System.Memory.xml
+C:\Users\LN\Downloads\TrabajoFinal\TrabajoFinalIntegrador1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\LN\Downloads\TrabajoFinal\TrabajoFinalIntegrador1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\LN\Downloads\TrabajoFinal\TrabajoFinalIntegrador1\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\LN\Downloads\TrabajoFinal\TrabajoFinalIntegrador1\bin\Debug\System.Text.Json.xml
+C:\Users\LN\Downloads\TrabajoFinal\TrabajoFinalIntegrador1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\LN\Downloads\TrabajoFinal\TrabajoFinalIntegrador1\bin\Debug\System.ValueTuple.xml
+C:\Users\LN\Downloads\TrabajoFinal\TrabajoFinalIntegrador1\obj\Debug\TrabajoFinalIntegrador1.csproj.AssemblyReference.cache
+C:\Users\LN\Downloads\TrabajoFinal\TrabajoFinalIntegrador1\obj\Debug\TrabajoFinalIntegrador1.csproj.SuggestedBindingRedirects.cache
+C:\Users\LN\Downloads\TrabajoFinal\TrabajoFinalIntegrador1\obj\Debug\TrabajoFinalIntegrador1.FormActualizar.resources
+C:\Users\LN\Downloads\TrabajoFinal\TrabajoFinalIntegrador1\obj\Debug\TrabajoFinalIntegrador1.FormProductos.resources
+C:\Users\LN\Downloads\TrabajoFinal\TrabajoFinalIntegrador1\obj\Debug\TrabajoFinalIntegrador1.Properties.Resources.resources
+C:\Users\LN\Downloads\TrabajoFinal\TrabajoFinalIntegrador1\obj\Debug\TrabajoFinalIntegrador1.csproj.GenerateResource.cache
+C:\Users\LN\Downloads\TrabajoFinal\TrabajoFinalIntegrador1\obj\Debug\TrabajoFinalIntegrador1.csproj.CoreCompileInputs.cache
+C:\Users\LN\Downloads\TrabajoFinal\TrabajoFinalIntegrador1\obj\Debug\TrabajoFinalIntegrador1.csproj.CopyComplete
+C:\Users\LN\Downloads\TrabajoFinal\TrabajoFinalIntegrador1\obj\Debug\TrabajoFinalIntegrador1.exe
+C:\Users\LN\Downloads\TrabajoFinal\TrabajoFinalIntegrador1\obj\Debug\TrabajoFinalIntegrador1.pdb
+C:\Users\camil\Downloads\TrabajoFinal-main\TrabajoFinal-main\TrabajoFinalIntegrador1\bin\Debug\TrabajoFinalIntegrador1.exe.config
+C:\Users\camil\Downloads\TrabajoFinal-main\TrabajoFinal-main\TrabajoFinalIntegrador1\bin\Debug\TrabajoFinalIntegrador1.exe
+C:\Users\camil\Downloads\TrabajoFinal-main\TrabajoFinal-main\TrabajoFinalIntegrador1\bin\Debug\TrabajoFinalIntegrador1.pdb
+C:\Users\camil\Downloads\TrabajoFinal-main\TrabajoFinal-main\TrabajoFinalIntegrador1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\camil\Downloads\TrabajoFinal-main\TrabajoFinal-main\TrabajoFinalIntegrador1\bin\Debug\RestSharp.dll
+C:\Users\camil\Downloads\TrabajoFinal-main\TrabajoFinal-main\TrabajoFinalIntegrador1\bin\Debug\System.Buffers.dll
+C:\Users\camil\Downloads\TrabajoFinal-main\TrabajoFinal-main\TrabajoFinalIntegrador1\bin\Debug\System.Memory.dll
+C:\Users\camil\Downloads\TrabajoFinal-main\TrabajoFinal-main\TrabajoFinalIntegrador1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\camil\Downloads\TrabajoFinal-main\TrabajoFinal-main\TrabajoFinalIntegrador1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\camil\Downloads\TrabajoFinal-main\TrabajoFinal-main\TrabajoFinalIntegrador1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\camil\Downloads\TrabajoFinal-main\TrabajoFinal-main\TrabajoFinalIntegrador1\bin\Debug\System.Text.Json.dll
+C:\Users\camil\Downloads\TrabajoFinal-main\TrabajoFinal-main\TrabajoFinalIntegrador1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\camil\Downloads\TrabajoFinal-main\TrabajoFinal-main\TrabajoFinalIntegrador1\bin\Debug\System.ValueTuple.dll
+C:\Users\camil\Downloads\TrabajoFinal-main\TrabajoFinal-main\TrabajoFinalIntegrador1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\camil\Downloads\TrabajoFinal-main\TrabajoFinal-main\TrabajoFinalIntegrador1\bin\Debug\RestSharp.xml
+C:\Users\camil\Downloads\TrabajoFinal-main\TrabajoFinal-main\TrabajoFinalIntegrador1\bin\Debug\System.Buffers.xml
+C:\Users\camil\Downloads\TrabajoFinal-main\TrabajoFinal-main\TrabajoFinalIntegrador1\bin\Debug\System.Memory.xml
+C:\Users\camil\Downloads\TrabajoFinal-main\TrabajoFinal-main\TrabajoFinalIntegrador1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\camil\Downloads\TrabajoFinal-main\TrabajoFinal-main\TrabajoFinalIntegrador1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\camil\Downloads\TrabajoFinal-main\TrabajoFinal-main\TrabajoFinalIntegrador1\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\camil\Downloads\TrabajoFinal-main\TrabajoFinal-main\TrabajoFinalIntegrador1\bin\Debug\System.Text.Json.xml
+C:\Users\camil\Downloads\TrabajoFinal-main\TrabajoFinal-main\TrabajoFinalIntegrador1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\camil\Downloads\TrabajoFinal-main\TrabajoFinal-main\TrabajoFinalIntegrador1\bin\Debug\System.ValueTuple.xml
+C:\Users\camil\Downloads\TrabajoFinal-main\TrabajoFinal-main\TrabajoFinalIntegrador1\obj\Debug\TrabajoFinalIntegrador1.csproj.AssemblyReference.cache
+C:\Users\camil\Downloads\TrabajoFinal-main\TrabajoFinal-main\TrabajoFinalIntegrador1\obj\Debug\TrabajoFinalIntegrador1.csproj.SuggestedBindingRedirects.cache
+C:\Users\camil\Downloads\TrabajoFinal-main\TrabajoFinal-main\TrabajoFinalIntegrador1\obj\Debug\TrabajoFinalIntegrador1.FormActualizar.resources
+C:\Users\camil\Downloads\TrabajoFinal-main\TrabajoFinal-main\TrabajoFinalIntegrador1\obj\Debug\TrabajoFinalIntegrador1.FormProductos.resources
+C:\Users\camil\Downloads\TrabajoFinal-main\TrabajoFinal-main\TrabajoFinalIntegrador1\obj\Debug\TrabajoFinalIntegrador1.Properties.Resources.resources
+C:\Users\camil\Downloads\TrabajoFinal-main\TrabajoFinal-main\TrabajoFinalIntegrador1\obj\Debug\TrabajoFinalIntegrador1.csproj.GenerateResource.cache
+C:\Users\camil\Downloads\TrabajoFinal-main\TrabajoFinal-main\TrabajoFinalIntegrador1\obj\Debug\TrabajoFinalIntegrador1.csproj.CoreCompileInputs.cache
+C:\Users\camil\Downloads\TrabajoFinal-main\TrabajoFinal-main\TrabajoFinalIntegrador1\obj\Debug\TrabajoFinalIntegrador1.csproj.CopyComplete
+C:\Users\camil\Downloads\TrabajoFinal-main\TrabajoFinal-main\TrabajoFinalIntegrador1\obj\Debug\TrabajoFinalIntegrador1.exe
+C:\Users\camil\Downloads\TrabajoFinal-main\TrabajoFinal-main\TrabajoFinalIntegrador1\obj\Debug\TrabajoFinalIntegrador1.pdb
+C:\Users\LN\Desktop\TrabajoFinal-main\TrabajoFinalIntegrador1\bin\Debug\TrabajoFinalIntegrador1.exe.config
+C:\Users\LN\Desktop\TrabajoFinal-main\TrabajoFinalIntegrador1\bin\Debug\TrabajoFinalIntegrador1.exe
+C:\Users\LN\Desktop\TrabajoFinal-main\TrabajoFinalIntegrador1\bin\Debug\TrabajoFinalIntegrador1.pdb
+C:\Users\LN\Desktop\TrabajoFinal-main\TrabajoFinalIntegrador1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\LN\Desktop\TrabajoFinal-main\TrabajoFinalIntegrador1\bin\Debug\RestSharp.dll
+C:\Users\LN\Desktop\TrabajoFinal-main\TrabajoFinalIntegrador1\bin\Debug\System.Buffers.dll
+C:\Users\LN\Desktop\TrabajoFinal-main\TrabajoFinalIntegrador1\bin\Debug\System.Memory.dll
+C:\Users\LN\Desktop\TrabajoFinal-main\TrabajoFinalIntegrador1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\LN\Desktop\TrabajoFinal-main\TrabajoFinalIntegrador1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\LN\Desktop\TrabajoFinal-main\TrabajoFinalIntegrador1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\LN\Desktop\TrabajoFinal-main\TrabajoFinalIntegrador1\bin\Debug\System.Text.Json.dll
+C:\Users\LN\Desktop\TrabajoFinal-main\TrabajoFinalIntegrador1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\LN\Desktop\TrabajoFinal-main\TrabajoFinalIntegrador1\bin\Debug\System.ValueTuple.dll
+C:\Users\LN\Desktop\TrabajoFinal-main\TrabajoFinalIntegrador1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\LN\Desktop\TrabajoFinal-main\TrabajoFinalIntegrador1\bin\Debug\RestSharp.xml
+C:\Users\LN\Desktop\TrabajoFinal-main\TrabajoFinalIntegrador1\bin\Debug\System.Buffers.xml
+C:\Users\LN\Desktop\TrabajoFinal-main\TrabajoFinalIntegrador1\bin\Debug\System.Memory.xml
+C:\Users\LN\Desktop\TrabajoFinal-main\TrabajoFinalIntegrador1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\LN\Desktop\TrabajoFinal-main\TrabajoFinalIntegrador1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\LN\Desktop\TrabajoFinal-main\TrabajoFinalIntegrador1\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\LN\Desktop\TrabajoFinal-main\TrabajoFinalIntegrador1\bin\Debug\System.Text.Json.xml
+C:\Users\LN\Desktop\TrabajoFinal-main\TrabajoFinalIntegrador1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\LN\Desktop\TrabajoFinal-main\TrabajoFinalIntegrador1\bin\Debug\System.ValueTuple.xml
+C:\Users\LN\Desktop\TrabajoFinal-main\TrabajoFinalIntegrador1\obj\Debug\TrabajoFinalIntegrador1.csproj.AssemblyReference.cache
+C:\Users\LN\Desktop\TrabajoFinal-main\TrabajoFinalIntegrador1\obj\Debug\TrabajoFinalIntegrador1.csproj.SuggestedBindingRedirects.cache
+C:\Users\LN\Desktop\TrabajoFinal-main\TrabajoFinalIntegrador1\obj\Debug\TrabajoFinalIntegrador1.FormActualizar.resources
+C:\Users\LN\Desktop\TrabajoFinal-main\TrabajoFinalIntegrador1\obj\Debug\TrabajoFinalIntegrador1.FormProductos.resources
+C:\Users\LN\Desktop\TrabajoFinal-main\TrabajoFinalIntegrador1\obj\Debug\TrabajoFinalIntegrador1.Properties.Resources.resources
+C:\Users\LN\Desktop\TrabajoFinal-main\TrabajoFinalIntegrador1\obj\Debug\TrabajoFinalIntegrador1.csproj.GenerateResource.cache
+C:\Users\LN\Desktop\TrabajoFinal-main\TrabajoFinalIntegrador1\obj\Debug\TrabajoFinalIntegrador1.csproj.CoreCompileInputs.cache
+C:\Users\LN\Desktop\TrabajoFinal-main\TrabajoFinalIntegrador1\obj\Debug\TrabajoFinalIntegrador1.csproj.CopyComplete
+C:\Users\LN\Desktop\TrabajoFinal-main\TrabajoFinalIntegrador1\obj\Debug\TrabajoFinalIntegrador1.exe
+C:\Users\LN\Desktop\TrabajoFinal-main\TrabajoFinalIntegrador1\obj\Debug\TrabajoFinalIntegrador1.pdb
+C:\Users\LN\Desktop\TrabajoFinal-main\TrabajoFinalIntegrador1\obj\Debug\TrabajoFinalIntegrador1.FormCrear.resources
+D:\TrabajoFinal-main\TrabajoFinalIntegrador1\bin\Debug\TrabajoFinalIntegrador1.exe.config
+D:\TrabajoFinal-main\TrabajoFinalIntegrador1\bin\Debug\TrabajoFinalIntegrador1.exe
+D:\TrabajoFinal-main\TrabajoFinalIntegrador1\bin\Debug\TrabajoFinalIntegrador1.pdb
+D:\TrabajoFinal-main\TrabajoFinalIntegrador1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\TrabajoFinal-main\TrabajoFinalIntegrador1\bin\Debug\RestSharp.dll
+D:\TrabajoFinal-main\TrabajoFinalIntegrador1\bin\Debug\System.Buffers.dll
+D:\TrabajoFinal-main\TrabajoFinalIntegrador1\bin\Debug\System.Memory.dll
+D:\TrabajoFinal-main\TrabajoFinalIntegrador1\bin\Debug\System.Numerics.Vectors.dll
+D:\TrabajoFinal-main\TrabajoFinalIntegrador1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\TrabajoFinal-main\TrabajoFinalIntegrador1\bin\Debug\System.Text.Encodings.Web.dll
+D:\TrabajoFinal-main\TrabajoFinalIntegrador1\bin\Debug\System.Text.Json.dll
+D:\TrabajoFinal-main\TrabajoFinalIntegrador1\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\TrabajoFinal-main\TrabajoFinalIntegrador1\bin\Debug\System.ValueTuple.dll
+D:\TrabajoFinal-main\TrabajoFinalIntegrador1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\TrabajoFinal-main\TrabajoFinalIntegrador1\bin\Debug\RestSharp.xml
+D:\TrabajoFinal-main\TrabajoFinalIntegrador1\bin\Debug\System.Buffers.xml
+D:\TrabajoFinal-main\TrabajoFinalIntegrador1\bin\Debug\System.Memory.xml
+D:\TrabajoFinal-main\TrabajoFinalIntegrador1\bin\Debug\System.Numerics.Vectors.xml
+D:\TrabajoFinal-main\TrabajoFinalIntegrador1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\TrabajoFinal-main\TrabajoFinalIntegrador1\bin\Debug\System.Text.Encodings.Web.xml
+D:\TrabajoFinal-main\TrabajoFinalIntegrador1\bin\Debug\System.Text.Json.xml
+D:\TrabajoFinal-main\TrabajoFinalIntegrador1\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\TrabajoFinal-main\TrabajoFinalIntegrador1\bin\Debug\System.ValueTuple.xml
+D:\TrabajoFinal-main\TrabajoFinalIntegrador1\obj\Debug\TrabajoFinalIntegrador1.csproj.AssemblyReference.cache
+D:\TrabajoFinal-main\TrabajoFinalIntegrador1\obj\Debug\TrabajoFinalIntegrador1.csproj.SuggestedBindingRedirects.cache
+D:\TrabajoFinal-main\TrabajoFinalIntegrador1\obj\Debug\TrabajoFinalIntegrador1.FormActualizar.resources
+D:\TrabajoFinal-main\TrabajoFinalIntegrador1\obj\Debug\TrabajoFinalIntegrador1.FormCrear.resources
+D:\TrabajoFinal-main\TrabajoFinalIntegrador1\obj\Debug\TrabajoFinalIntegrador1.FormProductos.resources
+D:\TrabajoFinal-main\TrabajoFinalIntegrador1\obj\Debug\TrabajoFinalIntegrador1.Properties.Resources.resources
+D:\TrabajoFinal-main\TrabajoFinalIntegrador1\obj\Debug\TrabajoFinalIntegrador1.csproj.GenerateResource.cache
+D:\TrabajoFinal-main\TrabajoFinalIntegrador1\obj\Debug\TrabajoFinalIntegrador1.csproj.CoreCompileInputs.cache
+D:\TrabajoFinal-main\TrabajoFinalIntegrador1\obj\Debug\TrabajoFinalIntegrador1.csproj.CopyComplete
+D:\TrabajoFinal-main\TrabajoFinalIntegrador1\obj\Debug\TrabajoFinalIntegrador1.exe
+D:\TrabajoFinal-main\TrabajoFinalIntegrador1\obj\Debug\TrabajoFinalIntegrador1.pdb
+C:\Users\camil\OneDrive\Escritorio\TrabajoFinal-main\TrabajoFinalIntegrador1\bin\Debug\TrabajoFinalIntegrador1.exe.config
+C:\Users\camil\OneDrive\Escritorio\TrabajoFinal-main\TrabajoFinalIntegrador1\bin\Debug\TrabajoFinalIntegrador1.exe
+C:\Users\camil\OneDrive\Escritorio\TrabajoFinal-main\TrabajoFinalIntegrador1\bin\Debug\TrabajoFinalIntegrador1.pdb
+C:\Users\camil\OneDrive\Escritorio\TrabajoFinal-main\TrabajoFinalIntegrador1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\camil\OneDrive\Escritorio\TrabajoFinal-main\TrabajoFinalIntegrador1\bin\Debug\RestSharp.dll
+C:\Users\camil\OneDrive\Escritorio\TrabajoFinal-main\TrabajoFinalIntegrador1\bin\Debug\System.Buffers.dll
+C:\Users\camil\OneDrive\Escritorio\TrabajoFinal-main\TrabajoFinalIntegrador1\bin\Debug\System.Memory.dll
+C:\Users\camil\OneDrive\Escritorio\TrabajoFinal-main\TrabajoFinalIntegrador1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\camil\OneDrive\Escritorio\TrabajoFinal-main\TrabajoFinalIntegrador1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\camil\OneDrive\Escritorio\TrabajoFinal-main\TrabajoFinalIntegrador1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\camil\OneDrive\Escritorio\TrabajoFinal-main\TrabajoFinalIntegrador1\bin\Debug\System.Text.Json.dll
+C:\Users\camil\OneDrive\Escritorio\TrabajoFinal-main\TrabajoFinalIntegrador1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\camil\OneDrive\Escritorio\TrabajoFinal-main\TrabajoFinalIntegrador1\bin\Debug\System.ValueTuple.dll
+C:\Users\camil\OneDrive\Escritorio\TrabajoFinal-main\TrabajoFinalIntegrador1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\camil\OneDrive\Escritorio\TrabajoFinal-main\TrabajoFinalIntegrador1\bin\Debug\RestSharp.xml
+C:\Users\camil\OneDrive\Escritorio\TrabajoFinal-main\TrabajoFinalIntegrador1\bin\Debug\System.Buffers.xml
+C:\Users\camil\OneDrive\Escritorio\TrabajoFinal-main\TrabajoFinalIntegrador1\bin\Debug\System.Memory.xml
+C:\Users\camil\OneDrive\Escritorio\TrabajoFinal-main\TrabajoFinalIntegrador1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\camil\OneDrive\Escritorio\TrabajoFinal-main\TrabajoFinalIntegrador1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\camil\OneDrive\Escritorio\TrabajoFinal-main\TrabajoFinalIntegrador1\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\camil\OneDrive\Escritorio\TrabajoFinal-main\TrabajoFinalIntegrador1\bin\Debug\System.Text.Json.xml
+C:\Users\camil\OneDrive\Escritorio\TrabajoFinal-main\TrabajoFinalIntegrador1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\camil\OneDrive\Escritorio\TrabajoFinal-main\TrabajoFinalIntegrador1\bin\Debug\System.ValueTuple.xml
+C:\Users\camil\OneDrive\Escritorio\TrabajoFinal-main\TrabajoFinalIntegrador1\obj\Debug\TrabajoFinalIntegrador1.csproj.AssemblyReference.cache
+C:\Users\camil\OneDrive\Escritorio\TrabajoFinal-main\TrabajoFinalIntegrador1\obj\Debug\TrabajoFinalIntegrador1.csproj.SuggestedBindingRedirects.cache
+C:\Users\camil\OneDrive\Escritorio\TrabajoFinal-main\TrabajoFinalIntegrador1\obj\Debug\TrabajoFinalIntegrador1.FormActualizar.resources
+C:\Users\camil\OneDrive\Escritorio\TrabajoFinal-main\TrabajoFinalIntegrador1\obj\Debug\TrabajoFinalIntegrador1.FormCrear.resources
+C:\Users\camil\OneDrive\Escritorio\TrabajoFinal-main\TrabajoFinalIntegrador1\obj\Debug\TrabajoFinalIntegrador1.FormProductos.resources
+C:\Users\camil\OneDrive\Escritorio\TrabajoFinal-main\TrabajoFinalIntegrador1\obj\Debug\TrabajoFinalIntegrador1.Properties.Resources.resources
+C:\Users\camil\OneDrive\Escritorio\TrabajoFinal-main\TrabajoFinalIntegrador1\obj\Debug\TrabajoFinalIntegrador1.csproj.GenerateResource.cache
+C:\Users\camil\OneDrive\Escritorio\TrabajoFinal-main\TrabajoFinalIntegrador1\obj\Debug\TrabajoFinalIntegrador1.csproj.CoreCompileInputs.cache
+C:\Users\camil\OneDrive\Escritorio\TrabajoFinal-main\TrabajoFinalIntegrador1\obj\Debug\TrabajoFinalIntegrador1.csproj.CopyComplete
+C:\Users\camil\OneDrive\Escritorio\TrabajoFinal-main\TrabajoFinalIntegrador1\obj\Debug\TrabajoFinalIntegrador1.exe
+C:\Users\camil\OneDrive\Escritorio\TrabajoFinal-main\TrabajoFinalIntegrador1\obj\Debug\TrabajoFinalIntegrador1.pdb
+C:\Users\camil\OneDrive\Escritorio\TrabajoFinal-main\TrabajoFinalIntegrador1\bin\Debug\NLog.dll
+C:\Users\camil\OneDrive\Escritorio\TrabajoFinal-main\TrabajoFinalIntegrador1\bin\Debug\NLog.xml
+C:\Users\LN\Downloads\TrabajoFinalIntegrador-main (1)\TrabajoFinalIntegrador-main\TrabajoFinalIntegrador1\bin\Debug\TrabajoFinalIntegrador1.exe.config
+C:\Users\LN\Downloads\TrabajoFinalIntegrador-main (1)\TrabajoFinalIntegrador-main\TrabajoFinalIntegrador1\bin\Debug\TrabajoFinalIntegrador1.exe
+C:\Users\LN\Downloads\TrabajoFinalIntegrador-main (1)\TrabajoFinalIntegrador-main\TrabajoFinalIntegrador1\bin\Debug\TrabajoFinalIntegrador1.pdb
+C:\Users\LN\Downloads\TrabajoFinalIntegrador-main (1)\TrabajoFinalIntegrador-main\TrabajoFinalIntegrador1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\LN\Downloads\TrabajoFinalIntegrador-main (1)\TrabajoFinalIntegrador-main\TrabajoFinalIntegrador1\bin\Debug\Negocio.dll
+C:\Users\LN\Downloads\TrabajoFinalIntegrador-main (1)\TrabajoFinalIntegrador-main\TrabajoFinalIntegrador1\bin\Debug\NLog.dll
+C:\Users\LN\Downloads\TrabajoFinalIntegrador-main (1)\TrabajoFinalIntegrador-main\TrabajoFinalIntegrador1\bin\Debug\RestSharp.dll
+C:\Users\LN\Downloads\TrabajoFinalIntegrador-main (1)\TrabajoFinalIntegrador-main\TrabajoFinalIntegrador1\bin\Debug\System.Buffers.dll
+C:\Users\LN\Downloads\TrabajoFinalIntegrador-main (1)\TrabajoFinalIntegrador-main\TrabajoFinalIntegrador1\bin\Debug\System.Memory.dll
+C:\Users\LN\Downloads\TrabajoFinalIntegrador-main (1)\TrabajoFinalIntegrador-main\TrabajoFinalIntegrador1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\LN\Downloads\TrabajoFinalIntegrador-main (1)\TrabajoFinalIntegrador-main\TrabajoFinalIntegrador1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\LN\Downloads\TrabajoFinalIntegrador-main (1)\TrabajoFinalIntegrador-main\TrabajoFinalIntegrador1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\LN\Downloads\TrabajoFinalIntegrador-main (1)\TrabajoFinalIntegrador-main\TrabajoFinalIntegrador1\bin\Debug\System.Text.Json.dll
+C:\Users\LN\Downloads\TrabajoFinalIntegrador-main (1)\TrabajoFinalIntegrador-main\TrabajoFinalIntegrador1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\LN\Downloads\TrabajoFinalIntegrador-main (1)\TrabajoFinalIntegrador-main\TrabajoFinalIntegrador1\bin\Debug\System.ValueTuple.dll
+C:\Users\LN\Downloads\TrabajoFinalIntegrador-main (1)\TrabajoFinalIntegrador-main\TrabajoFinalIntegrador1\bin\Debug\Negocio.pdb
+C:\Users\LN\Downloads\TrabajoFinalIntegrador-main (1)\TrabajoFinalIntegrador-main\TrabajoFinalIntegrador1\bin\Debug\Negocio.dll.config
+C:\Users\LN\Downloads\TrabajoFinalIntegrador-main (1)\TrabajoFinalIntegrador-main\TrabajoFinalIntegrador1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\LN\Downloads\TrabajoFinalIntegrador-main (1)\TrabajoFinalIntegrador-main\TrabajoFinalIntegrador1\bin\Debug\NLog.xml
+C:\Users\LN\Downloads\TrabajoFinalIntegrador-main (1)\TrabajoFinalIntegrador-main\TrabajoFinalIntegrador1\bin\Debug\RestSharp.xml
+C:\Users\LN\Downloads\TrabajoFinalIntegrador-main (1)\TrabajoFinalIntegrador-main\TrabajoFinalIntegrador1\bin\Debug\System.Buffers.xml
+C:\Users\LN\Downloads\TrabajoFinalIntegrador-main (1)\TrabajoFinalIntegrador-main\TrabajoFinalIntegrador1\bin\Debug\System.Memory.xml
+C:\Users\LN\Downloads\TrabajoFinalIntegrador-main (1)\TrabajoFinalIntegrador-main\TrabajoFinalIntegrador1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\LN\Downloads\TrabajoFinalIntegrador-main (1)\TrabajoFinalIntegrador-main\TrabajoFinalIntegrador1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\LN\Downloads\TrabajoFinalIntegrador-main (1)\TrabajoFinalIntegrador-main\TrabajoFinalIntegrador1\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\LN\Downloads\TrabajoFinalIntegrador-main (1)\TrabajoFinalIntegrador-main\TrabajoFinalIntegrador1\bin\Debug\System.Text.Json.xml
+C:\Users\LN\Downloads\TrabajoFinalIntegrador-main (1)\TrabajoFinalIntegrador-main\TrabajoFinalIntegrador1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\LN\Downloads\TrabajoFinalIntegrador-main (1)\TrabajoFinalIntegrador-main\TrabajoFinalIntegrador1\bin\Debug\System.ValueTuple.xml
+C:\Users\LN\Downloads\TrabajoFinalIntegrador-main (1)\TrabajoFinalIntegrador-main\TrabajoFinalIntegrador1\obj\Debug\TrabajoFinalIntegrador1.csproj.AssemblyReference.cache
+C:\Users\LN\Downloads\TrabajoFinalIntegrador-main (1)\TrabajoFinalIntegrador-main\TrabajoFinalIntegrador1\obj\Debug\TrabajoFinalIntegrador1.csproj.SuggestedBindingRedirects.cache
+C:\Users\LN\Downloads\TrabajoFinalIntegrador-main (1)\TrabajoFinalIntegrador-main\TrabajoFinalIntegrador1\obj\Debug\TrabajoFinalIntegrador1.FormActualizar.resources
+C:\Users\LN\Downloads\TrabajoFinalIntegrador-main (1)\TrabajoFinalIntegrador-main\TrabajoFinalIntegrador1\obj\Debug\TrabajoFinalIntegrador1.FormCrear.resources
+C:\Users\LN\Downloads\TrabajoFinalIntegrador-main (1)\TrabajoFinalIntegrador-main\TrabajoFinalIntegrador1\obj\Debug\TrabajoFinalIntegrador1.FormProductos.resources
+C:\Users\LN\Downloads\TrabajoFinalIntegrador-main (1)\TrabajoFinalIntegrador-main\TrabajoFinalIntegrador1\obj\Debug\TrabajoFinalIntegrador1.Properties.Resources.resources
+C:\Users\LN\Downloads\TrabajoFinalIntegrador-main (1)\TrabajoFinalIntegrador-main\TrabajoFinalIntegrador1\obj\Debug\TrabajoFinalIntegrador1.csproj.GenerateResource.cache
+C:\Users\LN\Downloads\TrabajoFinalIntegrador-main (1)\TrabajoFinalIntegrador-main\TrabajoFinalIntegrador1\obj\Debug\TrabajoFinalIntegrador1.csproj.CoreCompileInputs.cache
+C:\Users\LN\Downloads\TrabajoFinalIntegrador-main (1)\TrabajoFinalIntegrador-main\TrabajoFinalIntegrador1\obj\Debug\TrabajoFinalIntegrador1.csproj.CopyComplete
+C:\Users\LN\Downloads\TrabajoFinalIntegrador-main (1)\TrabajoFinalIntegrador-main\TrabajoFinalIntegrador1\obj\Debug\TrabajoFinalIntegrador1.exe
+C:\Users\LN\Downloads\TrabajoFinalIntegrador-main (1)\TrabajoFinalIntegrador-main\TrabajoFinalIntegrador1\obj\Debug\TrabajoFinalIntegrador1.pdb
+C:\Users\camil\OneDrive\Escritorio\Trabajo Fina Integrador\Ultima version 28-10\TrabajoFinalIntegrador-main\TrabajoFinalIntegrador1\bin\Debug\TrabajoFinalIntegrador1.exe.config
+C:\Users\camil\OneDrive\Escritorio\Trabajo Fina Integrador\Ultima version 28-10\TrabajoFinalIntegrador-main\TrabajoFinalIntegrador1\bin\Debug\TrabajoFinalIntegrador1.exe
+C:\Users\camil\OneDrive\Escritorio\Trabajo Fina Integrador\Ultima version 28-10\TrabajoFinalIntegrador-main\TrabajoFinalIntegrador1\bin\Debug\TrabajoFinalIntegrador1.pdb
+C:\Users\camil\OneDrive\Escritorio\Trabajo Fina Integrador\Ultima version 28-10\TrabajoFinalIntegrador-main\TrabajoFinalIntegrador1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\camil\OneDrive\Escritorio\Trabajo Fina Integrador\Ultima version 28-10\TrabajoFinalIntegrador-main\TrabajoFinalIntegrador1\bin\Debug\Negocio.dll
+C:\Users\camil\OneDrive\Escritorio\Trabajo Fina Integrador\Ultima version 28-10\TrabajoFinalIntegrador-main\TrabajoFinalIntegrador1\bin\Debug\NLog.dll
+C:\Users\camil\OneDrive\Escritorio\Trabajo Fina Integrador\Ultima version 28-10\TrabajoFinalIntegrador-main\TrabajoFinalIntegrador1\bin\Debug\RestSharp.dll
+C:\Users\camil\OneDrive\Escritorio\Trabajo Fina Integrador\Ultima version 28-10\TrabajoFinalIntegrador-main\TrabajoFinalIntegrador1\bin\Debug\System.Buffers.dll
+C:\Users\camil\OneDrive\Escritorio\Trabajo Fina Integrador\Ultima version 28-10\TrabajoFinalIntegrador-main\TrabajoFinalIntegrador1\bin\Debug\System.Memory.dll
+C:\Users\camil\OneDrive\Escritorio\Trabajo Fina Integrador\Ultima version 28-10\TrabajoFinalIntegrador-main\TrabajoFinalIntegrador1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\camil\OneDrive\Escritorio\Trabajo Fina Integrador\Ultima version 28-10\TrabajoFinalIntegrador-main\TrabajoFinalIntegrador1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\camil\OneDrive\Escritorio\Trabajo Fina Integrador\Ultima version 28-10\TrabajoFinalIntegrador-main\TrabajoFinalIntegrador1\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\camil\OneDrive\Escritorio\Trabajo Fina Integrador\Ultima version 28-10\TrabajoFinalIntegrador-main\TrabajoFinalIntegrador1\bin\Debug\System.Text.Json.dll
+C:\Users\camil\OneDrive\Escritorio\Trabajo Fina Integrador\Ultima version 28-10\TrabajoFinalIntegrador-main\TrabajoFinalIntegrador1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\camil\OneDrive\Escritorio\Trabajo Fina Integrador\Ultima version 28-10\TrabajoFinalIntegrador-main\TrabajoFinalIntegrador1\bin\Debug\System.ValueTuple.dll
+C:\Users\camil\OneDrive\Escritorio\Trabajo Fina Integrador\Ultima version 28-10\TrabajoFinalIntegrador-main\TrabajoFinalIntegrador1\bin\Debug\Negocio.pdb
+C:\Users\camil\OneDrive\Escritorio\Trabajo Fina Integrador\Ultima version 28-10\TrabajoFinalIntegrador-main\TrabajoFinalIntegrador1\bin\Debug\Negocio.dll.config
+C:\Users\camil\OneDrive\Escritorio\Trabajo Fina Integrador\Ultima version 28-10\TrabajoFinalIntegrador-main\TrabajoFinalIntegrador1\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\camil\OneDrive\Escritorio\Trabajo Fina Integrador\Ultima version 28-10\TrabajoFinalIntegrador-main\TrabajoFinalIntegrador1\bin\Debug\NLog.xml
+C:\Users\camil\OneDrive\Escritorio\Trabajo Fina Integrador\Ultima version 28-10\TrabajoFinalIntegrador-main\TrabajoFinalIntegrador1\bin\Debug\RestSharp.xml
+C:\Users\camil\OneDrive\Escritorio\Trabajo Fina Integrador\Ultima version 28-10\TrabajoFinalIntegrador-main\TrabajoFinalIntegrador1\bin\Debug\System.Buffers.xml
+C:\Users\camil\OneDrive\Escritorio\Trabajo Fina Integrador\Ultima version 28-10\TrabajoFinalIntegrador-main\TrabajoFinalIntegrador1\bin\Debug\System.Memory.xml
+C:\Users\camil\OneDrive\Escritorio\Trabajo Fina Integrador\Ultima version 28-10\TrabajoFinalIntegrador-main\TrabajoFinalIntegrador1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\camil\OneDrive\Escritorio\Trabajo Fina Integrador\Ultima version 28-10\TrabajoFinalIntegrador-main\TrabajoFinalIntegrador1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\camil\OneDrive\Escritorio\Trabajo Fina Integrador\Ultima version 28-10\TrabajoFinalIntegrador-main\TrabajoFinalIntegrador1\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\camil\OneDrive\Escritorio\Trabajo Fina Integrador\Ultima version 28-10\TrabajoFinalIntegrador-main\TrabajoFinalIntegrador1\bin\Debug\System.Text.Json.xml
+C:\Users\camil\OneDrive\Escritorio\Trabajo Fina Integrador\Ultima version 28-10\TrabajoFinalIntegrador-main\TrabajoFinalIntegrador1\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\camil\OneDrive\Escritorio\Trabajo Fina Integrador\Ultima version 28-10\TrabajoFinalIntegrador-main\TrabajoFinalIntegrador1\bin\Debug\System.ValueTuple.xml
+C:\Users\camil\OneDrive\Escritorio\Trabajo Fina Integrador\Ultima version 28-10\TrabajoFinalIntegrador-main\TrabajoFinalIntegrador1\obj\Debug\TrabajoFinalIntegrador1.csproj.AssemblyReference.cache
+C:\Users\camil\OneDrive\Escritorio\Trabajo Fina Integrador\Ultima version 28-10\TrabajoFinalIntegrador-main\TrabajoFinalIntegrador1\obj\Debug\TrabajoFinalIntegrador1.csproj.SuggestedBindingRedirects.cache
+C:\Users\camil\OneDrive\Escritorio\Trabajo Fina Integrador\Ultima version 28-10\TrabajoFinalIntegrador-main\TrabajoFinalIntegrador1\obj\Debug\TrabajoFinalIntegrador1.Properties.Resources.resources
+C:\Users\camil\OneDrive\Escritorio\Trabajo Fina Integrador\Ultima version 28-10\TrabajoFinalIntegrador-main\TrabajoFinalIntegrador1\obj\Debug\TrabajoFinalIntegrador1.csproj.GenerateResource.cache
+C:\Users\camil\OneDrive\Escritorio\Trabajo Fina Integrador\Ultima version 28-10\TrabajoFinalIntegrador-main\TrabajoFinalIntegrador1\obj\Debug\TrabajoFinalIntegrador1.csproj.CoreCompileInputs.cache
+C:\Users\camil\OneDrive\Escritorio\Trabajo Fina Integrador\Ultima version 28-10\TrabajoFinalIntegrador-main\TrabajoFinalIntegrador1\obj\Debug\TrabajoFinalIntegrador1.csproj.CopyComplete
+C:\Users\camil\OneDrive\Escritorio\Trabajo Fina Integrador\Ultima version 28-10\TrabajoFinalIntegrador-main\TrabajoFinalIntegrador1\obj\Debug\TrabajoFinalIntegrador1.exe
+C:\Users\camil\OneDrive\Escritorio\Trabajo Fina Integrador\Ultima version 28-10\TrabajoFinalIntegrador-main\TrabajoFinalIntegrador1\obj\Debug\TrabajoFinalIntegrador1.pdb
+C:\Users\camil\OneDrive\Escritorio\Trabajo Fina Integrador\Ultima version 28-10\TrabajoFinalIntegrador-main\TrabajoFinalIntegrador1\bin\Debug\NLog.config
+C:\Users\camil\OneDrive\Escritorio\Trabajo Fina Integrador\Ultima version 28-10\TrabajoFinalIntegrador-main\TrabajoFinalIntegrador1\obj\Debug\TrabajoFinalIntegrador1.FrmEditar.resources
+C:\Users\camil\OneDrive\Escritorio\Trabajo Fina Integrador\Ultima version 28-10\TrabajoFinalIntegrador-main\TrabajoFinalIntegrador1\obj\Debug\TrabajoFinalIntegrador1.FrmCrear.resources
+C:\Users\camil\OneDrive\Escritorio\Trabajo Fina Integrador\Ultima version 28-10\TrabajoFinalIntegrador-main\TrabajoFinalIntegrador1\obj\Debug\TrabajoFinalIntegrador1.FrmPrincipal.resources
